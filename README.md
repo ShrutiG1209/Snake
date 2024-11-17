@@ -1,2 +1,2 @@
 # Snake
-This is a game builded using different data structures
+The Snake game utilizes various data structures to efficiently manage its gameplay. The game grid is represented using a 2D array, while the snake itself is managed using a queue or a list to keep track of its body segments. The current direction of the snake is stored as a variable, and food items are placed randomly on the grid. High scores and player stats can be maintained using a hash map. This setup ensures smooth and dynamic gameplay. 🐍🚀
